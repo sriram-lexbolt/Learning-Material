@@ -1,0 +1,415 @@
+[
+ {
+  "id": "1",
+  "title": "L-category technical specifications",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "1A",
+  "title": "Battery operated L-category vehicles",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "1B",
+  "title": "E-rickshaw / E-cart",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "1C",
+  "title": "L5 / L7 vehicles",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "1D",
+  "title": "L5 BS VI specifications",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "1E",
+  "title": "Two-wheeler retrofit",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "2",
+  "title": "General vehicle information",
+  "edition": "TEST – AIS-007 Table 2 practice install (2014 public copy)",
+  "pdf": true,
+  "status": "installed_reviewed"
+ },
+ {
+  "id": "3",
+  "title": "Vehicle overall",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "4",
+  "title": "Engine specifications",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "4A",
+  "title": "BS IV engine family",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "4B",
+  "title": "Parent engine over 3500 kg",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "4C",
+  "title": "Individual engine family member",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "4D",
+  "title": "Tractor engine",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "4E",
+  "title": "BS VI vehicle up to 3500 kg",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "4F",
+  "title": "BS VI parent engine over 3500 kg",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "4G",
+  "title": "TREM / CEV IV engine",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "4H",
+  "title": "TREM / CEV V engine",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "5",
+  "title": "Braking system",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "6",
+  "title": "Electrical equipment",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "7",
+  "title": "Brief vehicle specifications",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "8",
+  "title": "Component reports and certificates",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "8A",
+  "title": "Additional component reports",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "9",
+  "title": "Vehicle and system test reports",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "10",
+  "title": "Criteria for extension of approval",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "11",
+  "title": "VIN and manufacture coding",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "12",
+  "title": "Changes in technical specifications",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "12A",
+  "title": "Additional changes",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "13",
+  "title": "Battery operated vehicle",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "14",
+  "title": "Brief construction equipment specifications",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "15",
+  "title": "Detailed construction equipment specifications",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "15A",
+  "title": "Additional construction equipment specifications",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "16",
+  "title": "Brief tractor specifications",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "17",
+  "title": "Detailed tractor specifications",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "17A",
+  "title": "TREM IV tractor specifications",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "17B",
+  "title": "TREM V tractor specifications",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "18",
+  "title": "Tractor / CEV component reports",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "18A",
+  "title": "Additional tractor / CEV reports",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "19",
+  "title": "Tractor / CEV other-model reports",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "20",
+  "title": "CNG / gaseous fuel components",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "21",
+  "title": "LPG components",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "22",
+  "title": "Bus specifications",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "22A",
+  "title": "Bus component reports",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "22B",
+  "title": "Additional bus specifications",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "22C",
+  "title": "School bus",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "22D",
+  "title": "Double-deck bus",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "22E",
+  "title": "Sleeper bus",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "23",
+  "title": "Hybrid electric vehicle",
+  "edition": "AIS-007 Rev.5:2014",
+  "pdf": true,
+  "status": "reference_available"
+ },
+ {
+  "id": "24",
+  "title": "Brief trailer specifications",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "24A",
+  "title": "Detailed trailer specifications",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "24B",
+  "title": "Trailer identification",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "25",
+  "title": "Hybrid retrofit system",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "26",
+  "title": "Retrofitted vehicle",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "27",
+  "title": "Truck cab and load body",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "28",
+  "title": "Modular hydraulic trailer",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "28A",
+  "title": "Hydraulic trailer identification",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "29",
+  "title": "Road ambulance",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "29A",
+  "title": "Ambulance body builder",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "30",
+  "title": "Motor caravan",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ },
+ {
+  "id": "30A",
+  "title": "Motor caravan identification",
+  "edition": null,
+  "pdf": false,
+  "status": "source_required"
+ }
+]

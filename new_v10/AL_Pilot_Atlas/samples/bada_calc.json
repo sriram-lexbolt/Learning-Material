@@ -1,0 +1,33 @@
+{
+ "value": "23.70",
+ "derived": {
+  "rule_id": "2ad14450722f4ffeb2f9232526c16b93",
+  "inputs": [
+   "t3_p3_p3-t1_r25_c4",
+   "rear_axle_ratio"
+  ],
+  "basis": "Overall ratio = gearbox ratio x final drive ratio (RSB column, 1st gear). Practice rule; confirm formula and rounding with AL.",
+  "status": "calculated"
+ },
+ "changes": [
+  [
+   "Rear axle ratio",
+   "4.56",
+   "5.13",
+   [
+    "3",
+    "7"
+   ],
+   3
+  ],
+  [
+   "1st · Overall Ratio / RSB",
+   "21.53",
+   "23.70",
+   [
+    "3"
+   ],
+   1
+  ]
+ ]
+}

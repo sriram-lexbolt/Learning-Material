@@ -1,0 +1,9 @@
+tools/node_modules/
+*.log
+__pycache__/
+practice_data/
+practice_data_clean_snapshot/
+HANDOFF_AL_Pilot_Atlas.md
+start_practice.cmd
+reset_practice.cmd
+tools/run_practice.py

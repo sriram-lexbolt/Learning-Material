@@ -1,0 +1,76 @@
+{
+ "not_applicable": {
+  "title": "Offset frontal collision applicability",
+  "reason": "Synthetic controlled scope fixture only. Outside this particular N1 diesel demo configuration."
+ },
+ "cross_vehicle": {
+  "title": "Service braking performance",
+  "vehicle": "Demo N1 - recorded tyre variant",
+  "certificate": "DEMO-NOT-REAL-MATCHED_VARIANT"
+ },
+ "cea": "Lighting installation and geometric visibility",
+ "scope_counts": {
+  "before": {
+   "reuse": 75,
+   "not_applicable": 17
+  },
+  "after": {
+   "reuse": 61,
+   "edition_review": 11,
+   "not_applicable": 20
+  }
+ },
+ "edition_review": [
+  [
+   "ABS / electronic braking applicability and performance",
+   "Confirm applicability, notified edition and test route for the current regulatory seed."
+  ],
+  [
+   "Cab structural strength applicability",
+   "Confirm applicability, notified edition and test route for the current regulatory seed."
+  ],
+  [
+   "Wiping, washing and demisting applicability",
+   "Confirm applicability, notified edition and test route for the current regulatory seed."
+  ],
+  [
+   "Front / rear fog lamp approval and installation",
+   "Confirm applicability, notified edition and test route for the current regulatory seed."
+  ],
+  [
+   "Seat head-restraint installation and strength",
+   "Confirm applicability, notified edition and test route for the current regulatory seed."
+  ],
+  [
+   "Cab interior fittings and injury protection scope",
+   "Confirm applicability, notified edition and test route for the current regulatory seed."
+  ],
+  [
+   "Windscreen defrosting and demisting",
+   "Confirm applicability, notified edition and test route for the current regulatory seed."
+  ],
+  [
+   "Forward field of vision and wiping coverage",
+   "Confirm applicability, notified edition and test route for the current regulatory seed."
+  ],
+  [
+   "Diesel free-acceleration smoke / opacity route",
+   "Confirm applicability, notified edition and test route for the current regulatory seed."
+  ],
+  [
+   "SCR reagent / inducement and dosing system",
+   "Confirm applicability, notified edition and test route for the current regulatory seed."
+  ],
+  [
+   "Incomplete / completed vehicle and body-builder approval",
+   "Confirm applicability, notified edition and test route for the current regulatory seed."
+  ]
+ ],
+ "after_batch": {
+  "reuse": 61,
+  "missing_evidence": 1,
+  "edition_review": 10,
+  "not_applicable": 20
+ },
+ "practice": "2bb23df9b4b54939bba93971a7087c8d"
+}

@@ -1,0 +1,15 @@
+{
+ "baseOptions": [
+  "Choose the vehicle this change starts from…",
+  "Bada Dost i9 · supplied base · Supplied",
+  "Demo N1 - complete technical base · Demo",
+  "Demo N1 - recorded tyre variant · Demo",
+  "Demo - all 59 table families (reference library) · Demo",
+  "Demo N1 · approved reference · Demo"
+ ],
+ "routeOptions": [
+  "Extension / change to an existing configuration",
+  "Additional family variant",
+  "New vehicle approval"
+ ]
+}

@@ -5,3 +5,4 @@ Study material for Lexbolt projects. Each folder covers one project and opens of
 | Folder | Project |
 |---|---|
 | [ashok-leyland-pdf-extractor](ashok-leyland-pdf-extractor/) | How the Jags AL Data Extracter turns Ashok Leyland AIS-007 specification PDFs into traceable JSON |
+| [new_v10](new_v10/) | AL Pilot v5.1.2 interactive atlas, complete walkthroughs, screenshots, and sample exports |

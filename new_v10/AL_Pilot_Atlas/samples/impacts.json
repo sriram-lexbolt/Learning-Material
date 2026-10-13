@@ -1,0 +1,250 @@
+[
+ {
+  "name": "TEST – Demo complete: scope & reviewer actions",
+  "kind": "requests",
+  "phase": "effective",
+  "historical": false,
+  "overdue": true,
+  "matches": [
+   {
+    "term": "horn make",
+    "fields": [
+     "Horn make / part / approval / position"
+    ],
+    "filled": true
+   }
+  ]
+ },
+ {
+  "name": "TEST – Demo N1 axle 5.13 (to approve)",
+  "kind": "requests",
+  "phase": "scope_review",
+  "historical": true,
+  "overdue": true,
+  "matches": [
+   {
+    "term": "horn make",
+    "fields": [
+     "Horn make and part number"
+    ],
+    "filled": true
+   }
+  ]
+ },
+ {
+  "name": "TEST – Bada Dost rear axle 5.13",
+  "kind": "requests",
+  "phase": "scope_review",
+  "historical": false,
+  "overdue": true,
+  "matches": [
+   {
+    "term": "horn make",
+    "fields": [],
+    "filled": false
+   }
+  ]
+ },
+ {
+  "name": "TEST – Demo N1 axle 4.80 (CEA reuse)",
+  "kind": "requests",
+  "phase": "scope_review",
+  "historical": false,
+  "overdue": true,
+  "matches": [
+   {
+    "term": "horn make",
+    "fields": [
+     "Horn make and part number"
+    ],
+    "filled": true
+   }
+  ]
+ },
+ {
+  "name": "TEST – Bada Dost rear axle 5.13",
+  "kind": "requests",
+  "phase": "scope_review",
+  "historical": false,
+  "overdue": true,
+  "matches": [
+   {
+    "term": "horn make",
+    "fields": [],
+    "filled": false
+   }
+  ]
+ },
+ {
+  "name": "Demo 1 - full specification and base evidence",
+  "kind": "requests",
+  "phase": "effective",
+  "historical": false,
+  "overdue": true,
+  "matches": [
+   {
+    "term": "horn make",
+    "fields": [
+     "Horn make / part / approval / position"
+    ],
+    "filled": true
+   }
+  ]
+ },
+ {
+  "name": "Demo 3 - changed field with synthetic CEA reuse",
+  "kind": "requests",
+  "phase": "effective",
+  "historical": false,
+  "overdue": true,
+  "matches": [
+   {
+    "term": "horn make",
+    "fields": [
+     "Horn make / part / approval / position"
+    ],
+    "filled": true
+   }
+  ]
+ },
+ {
+  "name": "Demo 2 - evidence from another recorded variant",
+  "kind": "requests",
+  "phase": "effective",
+  "historical": false,
+  "overdue": true,
+  "matches": [
+   {
+    "term": "horn make",
+    "fields": [
+     "Horn make / part / approval / position"
+    ],
+    "filled": true
+   }
+  ]
+ },
+ {
+  "name": "Demo 4 - new engine power requiring review",
+  "kind": "requests",
+  "phase": "effective",
+  "historical": false,
+  "overdue": true,
+  "matches": [
+   {
+    "term": "horn make",
+    "fields": [
+     "Horn make / part / approval / position"
+    ],
+    "filled": true
+   }
+  ]
+ },
+ {
+  "name": "TEST – Bada Dost import",
+  "kind": "vehicles",
+  "phase": "scope_review",
+  "historical": true,
+  "overdue": true,
+  "matches": [
+   {
+    "term": "horn make",
+    "fields": [],
+    "filled": false
+   }
+  ]
+ },
+ {
+  "name": "TEST – Demo N1 axle 5.13 (to approve)",
+  "kind": "vehicles",
+  "phase": "scope_review",
+  "historical": true,
+  "overdue": true,
+  "matches": [
+   {
+    "term": "horn make",
+    "fields": [
+     "Horn make and part number"
+    ],
+    "filled": true
+   }
+  ]
+ },
+ {
+  "name": "Bada Dost i9 · supplied base",
+  "kind": "vehicles",
+  "phase": "scope_review",
+  "historical": false,
+  "overdue": true,
+  "matches": [
+   {
+    "term": "horn make",
+    "fields": [],
+    "filled": false
+   }
+  ]
+ },
+ {
+  "name": "Demo N1 - complete technical base",
+  "kind": "vehicles",
+  "phase": "effective",
+  "historical": true,
+  "overdue": true,
+  "matches": [
+   {
+    "term": "horn make",
+    "fields": [
+     "Horn make / part / approval / position"
+    ],
+    "filled": true
+   }
+  ]
+ },
+ {
+  "name": "Demo N1 - recorded tyre variant",
+  "kind": "vehicles",
+  "phase": "effective",
+  "historical": true,
+  "overdue": true,
+  "matches": [
+   {
+    "term": "horn make",
+    "fields": [
+     "Horn make / part / approval / position"
+    ],
+    "filled": true
+   }
+  ]
+ },
+ {
+  "name": "Demo - all 59 table families (reference library)",
+  "kind": "vehicles",
+  "phase": "effective",
+  "historical": false,
+  "overdue": true,
+  "matches": [
+   {
+    "term": "horn make",
+    "fields": [
+     "Horn make / part / approval / position"
+    ],
+    "filled": true
+   }
+  ]
+ },
+ {
+  "name": "Demo N1 · approved reference",
+  "kind": "vehicles",
+  "phase": "scope_review",
+  "historical": true,
+  "overdue": true,
+  "matches": [
+   {
+    "term": "horn make",
+    "fields": [
+     "Horn make and part number"
+    ],
+    "filled": true
+   }
+  ]
+ }
+]

@@ -1,0 +1,117 @@
+{
+ "impacts": 16,
+ "rows": [
+  [
+   "TEST – Demo complete: scope & reviewer actions",
+   "effective",
+   "resolved",
+   false,
+   false
+  ],
+  [
+   "TEST – Demo N1 axle 5.13 (to approve)",
+   "scope_review",
+   "todo",
+   true,
+   true
+  ],
+  [
+   "TEST – Bada Dost rear axle 5.13",
+   "scope_review",
+   "todo",
+   false,
+   true
+  ],
+  [
+   "TEST – Demo N1 axle 4.80 (CEA reuse)",
+   "scope_review",
+   "todo",
+   false,
+   true
+  ],
+  [
+   "TEST – Bada Dost rear axle 5.13",
+   "scope_review",
+   "todo",
+   false,
+   true
+  ],
+  [
+   "Demo 1 - full specification and base evidence",
+   "effective",
+   "todo",
+   false,
+   true
+  ],
+  [
+   "Demo 3 - changed field with synthetic CEA reuse",
+   "effective",
+   "todo",
+   false,
+   true
+  ],
+  [
+   "Demo 2 - evidence from another recorded variant",
+   "effective",
+   "todo",
+   false,
+   true
+  ],
+  [
+   "Demo 4 - new engine power requiring review",
+   "effective",
+   "todo",
+   false,
+   true
+  ],
+  [
+   "TEST – Bada Dost import",
+   "scope_review",
+   "todo",
+   true,
+   true
+  ],
+  [
+   "TEST – Demo N1 axle 5.13 (to approve)",
+   "scope_review",
+   "todo",
+   true,
+   true
+  ],
+  [
+   "Bada Dost i9 · supplied base",
+   "scope_review",
+   "todo",
+   false,
+   true
+  ],
+  [
+   "Demo N1 - complete technical base",
+   "effective",
+   "todo",
+   true,
+   true
+  ],
+  [
+   "Demo N1 - recorded tyre variant",
+   "effective",
+   "todo",
+   true,
+   true
+  ],
+  [
+   "Demo - all 59 table families (reference library)",
+   "effective",
+   "todo",
+   false,
+   true
+  ],
+  [
+   "Demo N1 · approved reference",
+   "scope_review",
+   "todo",
+   true,
+   true
+  ]
+ ]
+}

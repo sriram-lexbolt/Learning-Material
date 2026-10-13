@@ -1,0 +1,128 @@
+{
+ "version": "al-n1-regulatory-seed-4.0.0",
+ "rows": 123,
+ "conditional": 35,
+ "claim": "Expanded known-topic inventory; not a certified exhaustive list of current notified law",
+ "gaps": [
+  {
+   "id": "current-law",
+   "status": "review_required",
+   "detail": "No authoritative fully amended 2026 CMVR consolidation retrieved. Historical CMVR references are not proof of current legal wording."
+  },
+  {
+   "id": "bis-fulltext",
+   "status": "licensed_or_official_copy_required",
+   "detail": "BIS-dependent acceptance limits and current editions require controlled standard copies; numeric limits are not invented."
+  },
+  {
+   "id": "notifications",
+   "status": "review_required",
+   "detail": "Confirm each applicable final notification, amendment, implementation date and exemption before approving the test register."
+  },
+  {
+   "id": "cea",
+   "status": "report_and_agency_acceptance_required",
+   "detail": "Record clause-level family / worst-case criteria. Identical fields alone do not prove a complete test configuration."
+  },
+  {
+   "id": "ais007-current-forms",
+   "status": "separate_template_registry",
+   "detail": "The existing AIS-007 registry still has source-required newer forms. Regulatory seeding does not fabricate those layouts."
+  }
+ ],
+ "watch": [
+  {
+   "id": "wltp",
+   "topic": "WLTP / future emission changes",
+   "status": "notification_review_only",
+   "mandatory": false,
+   "instruction": "Obtain final Gazette notification; proposals do not activate requirements."
+  },
+  {
+   "id": "new-lighting",
+   "topic": "AIS-198 / AIS-199 / AIS-200 lighting consolidation",
+   "status": "notification_review_only",
+   "mandatory": false
+  },
+  {
+   "id": "n1-adas",
+   "topic": "AEBS / ESC / LDWS / DDAWS / BSIS / MOIS",
+   "status": "not_blanket_N1_mandate",
+   "mandatory": false,
+   "source_id": "safety_2026",
+   "instruction": "Published heavy-vehicle ADAS scope is M2/M3/N2/N3; review separately fitted equipment."
+  }
+ ],
+ "sources": [
+  [
+   "AIS-008 (Rev.2):2019",
+   "official_reference",
+   "2026-10-09"
+  ],
+  [
+   "AIS-001 (Part 1) (Rev.2):2023 + Corrigendum 1 (12/2024)",
+   "official_reference",
+   "2026-10-09"
+  ],
+  [
+   "AIS-004 (Part 3) (Rev.1):2020",
+   "official_reference",
+   "2026-10-09"
+  ],
+  [
+   "AIS-137 (Part 3), amendments 1–9, including 08/2024",
+   "official_reference",
+   "2026-10-09"
+  ],
+  [
+   "AIS-038 (Rev.2) with amendments through 3 (09/2022)",
+   "official_reference",
+   "2026-10-09"
+  ],
+  [
+   "AIS-065 with amendments 1–6",
+   "official_reference",
+   "2026-10-09"
+  ],
+  [
+   "AIS-017 (Part 6), published reference copy",
+   "official_reference",
+   "2026-10-09"
+  ],
+  [
+   "AL workbook / standards register verification required",
+   "register_required",
+   null
+  ],
+  [
+   "UNECE WP.29 regulation repository",
+   "index_reference",
+   null
+  ],
+  [
+   "Government-hosted historical CMVR consolidation (not current consolidated law)",
+   "historical_official_reference",
+   "2026-10-09"
+  ],
+  [
+   "MoRTH Rajya Sabha answer 430, 22 July 2026",
+   "official_policy_corroboration",
+   "2026-10-09"
+  ],
+  [
+   "Current notified standard / clause copy required",
+   "register_required",
+   "2026-10-09"
+  ],
+  [
+   "MoRTH AIS-023 amendments, category-N seats / anchorages / head restraints",
+   "official_index_reference",
+   "2026-10-09"
+  ],
+  [
+   "MoRTH final AIS-039 / AIS-040 publication index",
+   "official_index_reference",
+   "2026-10-09"
+  ]
+ ]
+}
